@@ -1,0 +1,2 @@
+JAK2、JAK3、TYK2 各自文件夹中的 protein.pdbqt 为本次比较对接使用的预处理受体，均已对齐至 JAK1 坐标系。
+
